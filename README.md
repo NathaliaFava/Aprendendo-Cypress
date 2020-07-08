@@ -14,6 +14,7 @@ Para conhecer na íntegra esta ferramenta, recomendo a leitura da documentação
 <br>
 :raised_hand: <b>Ambiente e Cypress</b>
 <br>
+<br>
 Antes de instalarmos o Cypress, é necessário prepararmos o ambiente para que possamos recebê-lo.
 <br>
 <br>
